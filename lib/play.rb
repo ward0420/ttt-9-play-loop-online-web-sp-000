@@ -36,7 +36,10 @@ def turn(board)
 end
 
 def play(board)
+<<<<<<< HEAD
   
+=======
+>>>>>>> c2ff4fdeedc94f42deeeb01c6e47549339975074
   i = 1
   while i < 10
   turn(board)
@@ -45,5 +48,9 @@ def play(board)
 
 end
   
+<<<<<<< HEAD
 end
 
+=======
+end
+>>>>>>> c2ff4fdeedc94f42deeeb01c6e47549339975074
